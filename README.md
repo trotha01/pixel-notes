@@ -11,5 +11,5 @@ A few useful tutorials I found
 
 
 # EDITORS
-I believe most people use photoshop, I found this one useful:
+I believe most people use photoshop, I found this one useful (for android devices):
 http://pixly.meltinglogic.com/
