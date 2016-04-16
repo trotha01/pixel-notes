@@ -13,3 +13,7 @@ A few useful tutorials I found
 # EDITORS
 I believe most people use photoshop, I found this one useful (for android devices):
 http://pixly.meltinglogic.com/
+
+# NOTES
+Testing adding image to readme
+![mario](/mario.png?raw=true "Mario")
